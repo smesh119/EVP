@@ -65,7 +65,7 @@ p {
   line-height: 20px;
   font-weight: bold;
   color: #014E6D;
-  padding-bottom: 5px;
+
   margin-bottom: 15px;
 }
 
@@ -80,7 +80,7 @@ p {
   font-weight: bold;
   border-bottom: 1px solid #F99D1C;
   color: #F99D1C;
-  padding-bottom: 5px;
+  
   margin-bottom: 15px;
 }
 
@@ -95,7 +95,7 @@ p {
   font-weight: bold;
   border-bottom: 1px solid #00A1E1;
   color: #00A1E1;
-  padding-bottom: 5px;
+  
   margin-bottom: 15px;
 }
 
@@ -110,6 +110,6 @@ p {
   font-weight: bold;
   border-bottom: 1px solid #66B648;
   color: #66B648;
-  padding-bottom: 5px;
+  
   margin-bottom: 15px;
 }
