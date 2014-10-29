@@ -65,6 +65,8 @@ p {
   line-height: 20px;
   font-weight: bold;
   color: #014E6D;
+  padding-bottom: 5px;
+  margin-bottom: 15px;
 }
 
 .section-passion {
@@ -93,6 +95,8 @@ p {
   font-weight: bold;
   border-bottom: 1px solid #00A1E1;
   color: #00A1E1;
+  padding-bottom: 5px;
+  margin-bottom: 15px;
 }
 
 .section-opportunity {
@@ -106,4 +110,6 @@ p {
   font-weight: bold;
   border-bottom: 1px solid #66B648;
   color: #66B648;
+  padding-bottom: 5px;
+  margin-bottom: 15px;
 }
